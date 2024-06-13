@@ -1,2 +1,2 @@
-# CZ-Test
+# Club-Zeus
 Club Zeus
