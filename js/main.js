@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
 
         const phone = '5491162089720';      
 let msg = ' 🍀 ¡Hola! Quiero mi usuario y el bonus de bienvenida:\n';
-        msg += '*Usuario:* ' + user.value + "\n";
+        msg += '*Nombre:* ' + user.value + "\n";
        
 
         const wppLink = `send?text=${encodeURIComponent(msg)}&phone=${phone}&type=phone_number&app_absent=0`;
